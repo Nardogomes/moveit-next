@@ -1,3 +1,4 @@
+import apminsight from 'apminsight';
 import Head from 'next/head'
 import { GetServerSideProps } from 'next'
 
